@@ -5,6 +5,7 @@
     "y": [4734, 7793, 7784, 6628, 5644, 6224, 5058],
     "text": [4734, 7793, 7784, 6628, 5644, 6224, 5058],
     "mode": "lines+markers+text",
+    "marker": {"size": 30},
     "textposition": "top right",
     "hoverinfo": "x+y",
     "cliponaxis": false
@@ -14,6 +15,7 @@
     "x": [4734, 7793, 7784, 6628, 5644, 6224, 5058],
     "text": [4734, 7793, 7784, 6628, 5644, 6224, 5058],
     "mode": "lines+markers+text",
+    "marker": {"size": 30},
     "textposition": "bottom left",
     "hoverinfo": "x+y",
     "cliponaxis": false,
@@ -41,7 +43,6 @@
     "yaxis2": {
       "anchor": "x2",
       "side": "right",
-      "calendar": "julian",
       "title": "date axis"
     },
     "legend": {
